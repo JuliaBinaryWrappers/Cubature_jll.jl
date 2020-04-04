@@ -1,0 +1,113 @@
+[[Cubature]]
+arch = "i686"
+git-tree-sha1 = "0a392da5dd767da224e1f2548dadded842438bed"
+libc = "musl"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "3bdc85d72fe0de6c3beb4039a4b146b55e2fea188b9f7674728653cbf70d3bbd"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.i686-linux-musl.tar.gz"
+[[Cubature]]
+arch = "aarch64"
+git-tree-sha1 = "a6188f1917e407f448e0fb209d4bf153a2d653cb"
+libc = "musl"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "4b029c64ea93b5e15e2e6205446c343708245c88d57a2bddc7b7f98339050825"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.aarch64-linux-musl.tar.gz"
+[[Cubature]]
+arch = "i686"
+git-tree-sha1 = "2a4346b6eb121266015207a87966b9ad4aed6992"
+os = "windows"
+
+    [[Cubature.download]]
+    sha256 = "893da0cc335b8f9745786ae2b74d711de9b69d1890b2921f7137b8eea053d7cf"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.i686-w64-mingw32.tar.gz"
+[[Cubature]]
+arch = "x86_64"
+git-tree-sha1 = "1902972fc64a85c69cec368bbee935822bb14e3a"
+os = "windows"
+
+    [[Cubature.download]]
+    sha256 = "3aa96e0c0ffe6ea0a70dc556215db19e2c139c45ab2756dfda46991ccc1f37ad"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.x86_64-w64-mingw32.tar.gz"
+[[Cubature]]
+arch = "armv7l"
+git-tree-sha1 = "77e8cc28a694c4ba872c6cd9e475e15d336e4d43"
+libc = "glibc"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "49c5cfea6b0277c749c29a394817e3ce4c2a99a8dfd4c2e522532c78246e589f"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[Cubature]]
+arch = "armv7l"
+git-tree-sha1 = "8df66b26cd71a005e5916d8c9e23c1d5ea11fc93"
+libc = "musl"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "49f1d322fe09210a1166c3731db306a7a2f2d45c7940b1bc7378a1c95a98d776"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.armv7l-linux-musleabihf.tar.gz"
+[[Cubature]]
+arch = "i686"
+git-tree-sha1 = "72aa7320e60f72bb064439a127ba5964eb3a40b5"
+libc = "glibc"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "a9ab24f031e2edade6687394792392d1a2fe530f99f848311736b7dc222dca40"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.i686-linux-gnu.tar.gz"
+[[Cubature]]
+arch = "x86_64"
+git-tree-sha1 = "c47c876113abaf48efdff780a95aa5ab85a0a2a1"
+libc = "glibc"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "af2633973e94ae635a70795b388a8af626c5e18fdd0ed8285f33b6dd7880ac1c"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.x86_64-linux-gnu.tar.gz"
+[[Cubature]]
+arch = "powerpc64le"
+git-tree-sha1 = "4d2b91d9f8817187e76936c0e01ed69f5a1158c8"
+libc = "glibc"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "748749d0c07e4d5b7ff07ec7b8c6b32c9aebc946d13d9b0f7fbb6c5ac8ab6d72"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.powerpc64le-linux-gnu.tar.gz"
+[[Cubature]]
+arch = "x86_64"
+git-tree-sha1 = "fa478663b3a2575ad5a989d74754b19697df8c2a"
+os = "macos"
+
+    [[Cubature.download]]
+    sha256 = "76b1d5734f65d6783d22c824cb847e21fa1299418324d6dd18fbbca2acd764b9"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.x86_64-apple-darwin14.tar.gz"
+[[Cubature]]
+arch = "aarch64"
+git-tree-sha1 = "4619c0d71942cc9fddec6a18be5df605e0fa5188"
+libc = "glibc"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "1cf3abf2b24e89aea5d3ccfdfaf73416afc065cfedc66c56b152fbca57aaba55"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.aarch64-linux-gnu.tar.gz"
+[[Cubature]]
+arch = "x86_64"
+git-tree-sha1 = "31560d8626d61accd1d1741fcd7c89a97643351c"
+os = "freebsd"
+
+    [[Cubature.download]]
+    sha256 = "0f8b9d979dc6cd024e53e9ab4da7ed5179c339bac2aa512c051ffaf3ea4b1859"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[Cubature]]
+arch = "x86_64"
+git-tree-sha1 = "0435587c8c361ac6a99f09597490336f80a8eb64"
+libc = "musl"
+os = "linux"
+
+    [[Cubature.download]]
+    sha256 = "a5abe1055eba076e5d836fbd492f4fd72f26a3509c0822ee66863f8c2b7718a3"
+    url = "https://github.com/JuliaBinaryWrappers/Cubature_jll.jl/releases/download/Cubature-v1.0.3+0/Cubature.v1.0.3.x86_64-linux-musl.tar.gz"
